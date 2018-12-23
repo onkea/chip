@@ -1,6 +1,6 @@
-# DISCONTINUED
+# UPDATED!
 
-> As of November 2018 Chip has been discontinued. It will remain here as a free open source project but will switch to an MIT license and no longer be actively maintained.
+> As of December 2018 Chip is being updated by the onkea team. 
 
 [![Build Status](https://travis-ci.org/Dev7studios/chip.svg?branch=master)](https://travis-ci.org/Dev7studios/chip) [![CircleCI](https://circleci.com/gh/Dev7studios/chip.svg?style=svg)](https://circleci.com/gh/Dev7studios/chip)
 
